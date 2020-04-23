@@ -1,0 +1,4 @@
+Hi $FIRST_NAME $LAST_NAME,
+
+I hear you like $FAV_LANG.  Are you familiar with the Zen of $FAV_LANG?  
+It's in the attachment!
